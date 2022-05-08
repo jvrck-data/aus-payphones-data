@@ -1,0 +1,24 @@
+{
+  "name": "aus-payphones-data",
+  "version": "0.0.1",
+  "description": "Australian Payphone Data",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "get-latest": "./get-latest.sh",
+    "get-latest-no-commit": "./get-latest-no-commit.sh"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jvrck-data/aus-payphones-data.git"
+  },
+  "author": "JVRCK",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jvrck-data/aus-payphones-data/issues"
+  },
+  "homepage": "https://github.com/jvrck-data/aus-payphones-data#readme",
+  "dependencies": {
+    "aus-payphones": "^1.2.3"
+  }
+}
