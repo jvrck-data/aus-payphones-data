@@ -1,6 +1,6 @@
 {
   "name": "aus-payphones-data",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Australian Payphone Data",
   "main": "index.js",
   "scripts": {
