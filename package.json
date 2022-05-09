@@ -19,6 +19,6 @@
   },
   "homepage": "https://github.com/jvrck-data/aus-payphones-data#readme",
   "dependencies": {
-    "aus-payphones": "^1.2.3"
+    "aus-payphones": "1.2.5"
   }
 }
